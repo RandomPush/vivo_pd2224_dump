@@ -1,0 +1,14 @@
+# full_k6833v1_64-user 12 SP1A.210812.003 compiler12271616 release-keys
+- manufacturer: vivo
+- platform: mt6833
+- codename: PD2224
+- flavor: full_k6833v1_64-user
+- release: 12
+- id: SP1A.210812.003
+- incremental: compiler12271616
+- tags: release-keys
+- fingerprint: vivo/PD2224/PD2224:12/SP1A.210812.003/compiler12271616:user/release-keys
+- is_ab: false
+- brand: vivo
+- branch: full_k6833v1_64-user-12-SP1A.210812.003-compiler12271616-release-keys
+- repo: vivo_pd2224_dump

@@ -1,0 +1,14 @@
+kernel=kernel
+ramdisk=ramdisk
+dt=dt.img
+page_size=2048
+kernel_size=15486407
+ramdisk_size=1205067
+dtb_size=2
+base_addr=0x40078000
+kernel_offset=0x00008000
+ramdisk_offset=0x11088000
+tags_offset=0x07c08000
+cmd_line='bootopt=64S3,32N2,64N2 product.version=PD2224_A_1.22.14 fingerprint.abbr=12/SP1A.210812.003 region_ver=W10 product.solution=MTK buildvariant=user'
+board=""
+format=gzip
