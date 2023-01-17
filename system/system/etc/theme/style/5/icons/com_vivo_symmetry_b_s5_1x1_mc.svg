@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>com_vivo_symmetry_b_s5_1x1_mc</title>
+    <g id="com_vivo_symmetry" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.949999988">
+        <g id="主色" transform="translate(52.000000, 52.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="编组-42">
+                <path d="M68,0 C105.555363,0 136,30.444637 136,68 C136,105.555363 105.555363,136 68,136 C30.444637,136 0,105.555363 0,68 C0,30.444637 30.444637,0 68,0 Z M68,20 C41.490332,20 20,41.490332 20,68 C20,94.509668 41.490332,116 68,116 C94.509668,116 116,94.509668 116,68 C116,41.490332 94.509668,20 68,20 Z" id="形状结合"></path>
+            </g>
+        </g>
+    </g>
+</svg>

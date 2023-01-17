@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config version="2.0">
+    <project-config>
+        <item projects="PD1938" animation-list="100,21,22,20,17,16,15,12,13,8,7,10" icon-list="2,6,3,1,5,4" enter-animation="300"/>
+        <item projects="PD1955,PD1964" animation-list="100,21,22,20,17,16,15,12,13,8,7,10" icon-list="3,6,2,5,4,1" enter-animation="300"/>
+        <item projects="PD1950" animation-list="100,21,22,20,17,16,12,15,13,8,7,10" icon-list="2,6,3,1,5,4" enter-animation="300"/>
+        <item projects="PD1962,PD1968" animation-list="100,21,22,20,17,16,15,12,13,8,7,10" icon-list="2,6,3,1,5,4" enter-animation="300"/>
+        <item projects="PD1982" animation-list="100,21,22,20,17,16,15,12,13,8,7,10" icon-list="2,6,3,1,5,4" enter-animation="300"/>
+        <item projects="PD1829,PD1836,PD1838,PD1820" animation-list="100,21,22,20,17,16,15,8,12,13,7,5,9,11,10,6" icon-list="2,6,3,1,5,4" enter-animation="300"/>
+        <item projects="PD1913,PD1921" animation-list="100,21,22,20,17,16,15,8,12,13,7,5,9,11,10,6" icon-list="2,6,3,1,5,4" enter-animation="300"/>
+        <item projects="PD1816,PD1809,PD1814" animation-list="100,21,22,20,17,16,15,3,12,13,4,0,1,2,8,7,5,9,11,10,6" icon-list="2,6,3,1,5,4" enter-animation="300"/>
+        <item projects="PD1832" animation-list="100,21,22,20,17,16,15,3,12,13,0,1,2,8,7,5,9,11,10,6" icon-list="2,6,3,1,5,4" enter-animation="300"/>
+        <item projects="PD1916,PD1922" animation-list="100,21,22,20,17,16,15,13,12,8,7,5,9,11,10,6" icon-list="3,6,2,5,4,1" enter-animation="300"/>
+        <item projects="PD1931" animation-list="100,21,22,20,17,16,15,8,7,5,9,11,10,6" icon-list="2,6,3,1,5,4" enter-animation="300"/>
+        <item projects="PD1932" animation-list="100,21,22,20,17,16,15,14,12,13,8,7,11,10" icon-list="2,6,3,1,5,4" enter-animation="300"/>
+        <item projects="PD1936" animation-list="100,21,22,20,17,16,15,13,12,8,7,11,10" icon-list="3,6,2,5,4,1" enter-animation="300"/>
+        <item projects="PD1945" animation-list="100,21,22,20,17,16,15,14,12,13,8,7,11,10" icon-list="2,6,3,1,5,4" enter-animation="300"/>
+        <item projects="PD1824" animation-list="100,21,22,20,17,16,15,8,12,13,7,5,9,11,10,6" icon-list="3,6,2,5,4,1" enter-animation="300"/>
+        <item projects="PD1914" animation-list="100,21,22,20,17,16,15,8,12,13,7,5,9,11,10,6" icon-list="3,6,2,5,4,1" enter-animation="300"/>
+        <item projects="PD1831" animation-list="100,21,22,20,17,16,15,12,13,8,7,11,10" icon-list="2,6,3,1,5,4" enter-animation="300"/>
+        <item projects="PD1923,PD1924" animation-list="100,21,22,20,17,16,12,15,13,8,7,11,10" icon-list="2,6,3,1,5,4" enter-animation="300"/>
+        <item projects="PD1821" animation-list="100,21,22,20,17,16,12,15,8,13,7,5,9,11,10,6" icon-list="2,6,3,1,5,4" enter-animation="300"/>
+        <item projects="PD1805,PD1806" animation-list="100,21,22,20,17,16,12,15,0,13,1,2,8,7,5,9,11,10,6" icon-list="2,6,3,1,5,4" enter-animation="300"/>
+        <item projects="PD1948" animation-list="100,21,22,20,17,16,15,12,13,8,7,11,10" icon-list="2,6,3,1,5,4" enter-animation="300"/>
+        <item projects="PD2024,PD2025" animation-list="100,21,22,20,16,17,15,12,13,8,7,10" icon-list="3,6,2,5,4,1" enter-animation="300"/>
+        <item projects="PD2031" animation-list="100,21,22,20,17,16,15,12,13,8,7,10" icon-list="2,6,3,1,5,4" enter-animation="300"/>
+        <item projects="PD2020" animation-list="100,21,22,20,17,16,15,12,13,8,7,10" icon-list="2,6,3,1,5,4" enter-animation="300"/>
+        <item projects="PD1969,PD2001,PD2005,PD2006,PD2011" animation-list="100,21,22,20,17,16,15,12,13,8,7,10" icon-list="2,6,3,1,5,4" enter-animation="300"/>
+        <item projects="PD2141,PD2186" animation-list="100,21,22,20,19,20,18,17,16,15,12,13,8,7,10" icon-list="18,19" enter-animation="300"/>
+        <item projects="PD2136,PD2049,PD2132,PD2134,PD2133,PD2135,PD2145,PD2047,PD2059,PD2056,PD2072,PD2121" animation-list="100,21,22,20,18,17,16,15,12,13,8,7,10" icon-list="11,12,13,14,15,16,17" enter-animation="300"/>
+        <item projects="PD2172,PD2170" animation-list="100,21" icon-list="18,19" enter-animation="300"/>
+        <item projects="default" animation-list="100,21" icon-list="11,12,13,14,15,16,17" enter-animation="300"/>
+    </project-config>
+</config>

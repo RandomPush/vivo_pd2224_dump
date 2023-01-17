@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="564px" viewBox="0 0 240 564" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>com_android_contacts_b_s5_1x2_mc</title>
+    <g id="com_android_contacts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="主色" transform="translate(94.000000, 224.000000)" fill="#000000">
+            <path d="M26,0 C40.3594035,-2.63777963e-15 52,11.6405965 52,26 L52,34 C52,48.3594035 40.3594035,60 26,60 C11.6405965,60 1.75851975e-15,48.3594035 0,34 L0,26 C1.79419393e-15,11.6405965 11.6405965,2.63777963e-15 26,0 Z" id="联系人"></path>
+        </g>
+    </g>
+</svg>

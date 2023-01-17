@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+    <list name="settings_manageapp_hide_system_app">
+        <item value="com.vivo.customtool"/>
+        <item value="com.vivo.cota"/>
+    </list>
+    <list name="framework_data_save_white_list_except_system_app">
+        <item value="com.vivo.customtool"/>
+        <item value="com.vivo.cota"/>
+    </list>
+</config>

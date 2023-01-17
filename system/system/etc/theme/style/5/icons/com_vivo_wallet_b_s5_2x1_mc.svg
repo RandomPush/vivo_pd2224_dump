@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="564px" height="240px" viewBox="0 0 564 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>com_vivo_wallet_b_s5_2x1_mc</title>
+    <defs>
+        <path d="M142.052804,6 C148.293435,6 150.556438,6.64977928 152.83792,7.86992893 C155.119401,9.09007857 156.909921,10.8805986 158.130071,13.1620801 C159.350221,15.4435616 160,17.7065652 160,23.9471964 L160,23.9471964 L160,96.0528036 C160,102.293435 159.350221,104.556438 158.130071,106.83792 C156.909921,109.119401 155.119401,110.909921 152.83792,112.130071 C150.556438,113.350221 148.293435,114 142.052804,114 L142.052804,114 L134,114 L134,6 Z" id="path-1"></path>
+        <filter x="-1.9%" y="-0.5%" width="103.8%" height="100.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.902032568   0 0 0 0 0.647846799  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M94.0528036,3 C100.293435,3 102.556438,3.64977928 104.83792,4.86992893 C107.119401,6.09007857 108.909921,7.88059859 110.130071,10.1620801 C111.350221,12.4435616 112,14.7065652 112,20.9471964 L112,20.9471964 L112,99.0528036 C112,105.293435 111.350221,107.556438 110.130071,109.83792 C108.909921,112.119401 107.119401,113.909921 104.83792,115.130071 C102.556438,116.350221 100.293435,117 94.0528036,117 L94.0528036,117 L80,117 L80,3 Z" id="path-3"></path>
+        <filter x="-1.6%" y="-0.4%" width="103.1%" height="100.9%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.772452777   0 0 0 0 1   0 0 0 0 0.57101753  0 0 0 0 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M37.4889184,5.10762098e-13 C44.6210683,5.12072252e-13 47.2073582,0.742604889 49.8147656,2.13706163 C52.422173,3.53151837 54.4684816,5.57782696 55.8629384,8.18523437 C57.2573951,10.7926418 58,13.3789317 58,20.5110816 L58,20.5110816 L58,99.4889184 C58,106.621068 57.2573951,109.207358 55.8629384,111.814766 C54.4684816,114.422173 52.422173,116.468482 49.8147656,117.862938 C47.2073582,119.257395 44.6210683,120 37.4889184,120 L37.4889184,120 L0,120 L0,0 Z" id="path-5"></path>
+    </defs>
+    <g id="com_vivo_wallet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="主色" transform="translate(275.000000, 60.000000)">
+            <g id="形状结合" opacity="0.15">
+                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            </g>
+            <g id="形状结合" opacity="0.5">
+                <use fill="#000000" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+            </g>
+            <mask id="mask-6" fill="white">
+                <use xlink:href="#path-5"></use>
+            </mask>
+            <use id="形状结合" fill="#000000" xlink:href="#path-5"></use>
+        </g>
+    </g>
+</svg>

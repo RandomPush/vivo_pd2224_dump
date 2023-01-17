@@ -1,0 +1,640 @@
+{
+    "Debug" : "false",
+    "UsePanelName" : "true",
+    "RgbFactorArray" : [
+        {
+            "index" : 0,
+            "array" : [245, 165, 75, 240, 200, 145, 255, 255, 255]
+        },
+        {
+            "index" : 1,
+            "array" : [255, 177, 100, 233, 210, 170, 255, 255, 255]
+        },
+        {
+            "index" : 2,
+            "array" : [255, 218, 157, 255, 235, 198, 255, 255, 255]
+        },
+        {
+            "index" : 3,
+            "array" : [236, 178, 98, 255, 255, 255, 255, 255, 255]
+        },
+        {
+            "index" : 4,
+            "array" : [255, 175, 85, 255, 255, 255, 255, 255, 255]
+        },
+
+        {
+            "index" : 5,
+            "array" : [255, 230, 145, 255, 255, 255, 216, 233, 255]
+        },
+        {
+            "index" : 6,
+            "array" : [255, 232, 177, 255, 255, 255, 208, 220, 255]
+        },
+        {
+            "index" : 7,
+            "array" : [245, 215, 114, 252, 255, 255, 216, 216, 255]
+        },
+        {
+            "index" : 8,
+            "array" : [245, 215, 114, 255, 255, 255, 216, 216, 255]
+        },
+        {
+            "index" : 9,
+            "array" : [255, 220, 145, 255, 255, 255, 230, 233, 255]
+        },
+        {
+            "index" : 10,
+            "array" : [255, 255, 212, 229, 230, 255, 198, 200, 255]
+        }
+    ],
+
+    "MultiPanelProperty" :[
+        {
+            "panelName" : "tm_ili7807s_13",
+            "persist.color.red.x": 6580,
+            "persist.color.red.y": 3380,
+            "persist.color.green.x": 2750,
+            "persist.color.green.y": 6600,
+            "persist.color.blue.x": 1500,
+            "persist.color.blue.y": 600
+        },
+        {
+            "panelName" : "tm_ili7807s_10",
+            "persist.color.red.x": 6720,
+            "persist.color.red.y": 3200,
+            "persist.color.green.x": 2450,
+            "persist.color.green.y": 6900,
+            "persist.color.blue.x": 1500,
+            "persist.color.blue.y": 600
+        },
+        {
+            "panelName" : "tm_ili7807s_12",
+            "persist.color.red.x": 6720,
+            "persist.color.red.y": 3200,
+            "persist.color.green.x": 2450,
+            "persist.color.green.y": 6900,
+            "persist.color.blue.x": 1500,
+            "persist.color.blue.y": 600
+        }
+    ],
+
+    "RgbFactorBlueLight" : {
+        "oled" : [
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "default",
+                "colorMode"             : "default",
+                "rgbFactorArrayIndex"   : 0
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "true",
+                "colorMode"             : "COLOR_MODE_STANDARD",
+                "rgbFactorArrayIndex"   : 0
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "true",
+                "colorMode"             : "COLOR_MODE_ENHANCED",
+                "rgbFactorArrayIndex"   : 0
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "true",
+                "colorMode"             : "COLOR_MODE_PROFESSIONAL",
+                "rgbFactorArrayIndex"   : 1
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "true",
+                "colorMode"             : "VIVO_COLOR_MODE_FINGERPRINT",
+                "rgbFactorArrayIndex"   : 2
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "true",
+                "colorMode"             : "default",
+                "rgbFactorArrayIndex"   : 0
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "false",
+                "colorMode"             : "COLOR_MODE_STANDARD",
+                "rgbFactorArrayIndex"   : 3
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "false",
+                "colorMode"             : "COLOR_MODE_PROFESSIONAL",
+                "rgbFactorArrayIndex"   : 3
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "false",
+                "colorMode"             : "VIVO_COLOR_MODE_FINGERPRINT",
+                "rgbFactorArrayIndex"   : 3
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "false",
+                "colorMode"             : "COLOR_MODE_ENHANCED",
+                "rgbFactorArrayIndex"   : 3
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "false",
+                "colorMode"             : "default",
+                "rgbFactorArrayIndex"   : 3
+            },
+            {
+                "deviceType"            : "tablet",
+                "supportColorManager"   : "true",
+                "colorMode"             : "COLOR_MODE_PROFESSIONAL",
+                "rgbFactorArrayIndex"   : 1
+            },
+            {
+                "deviceType"            : "tablet",
+                "supportColorManager"   : "false",
+                "colorMode"             : "COLOR_MODE_STANDARD",
+                "rgbFactorArrayIndex"   : 3
+            },
+            {
+                "deviceType"            : "tablet",
+                "supportColorManager"   : "false",
+                "colorMode"             : "COLOR_MODE_PROFESSIONAL",
+                "rgbFactorArrayIndex"   : 3
+            },
+            {
+                "deviceType"            : "tablet",
+                "supportColorManager"   : "false",
+                "colorMode"             : "VIVO_COLOR_MODE_FINGERPRINT",
+                "rgbFactorArrayIndex"   : 3
+            },
+            {
+                "deviceType"            : "tablet",
+                "supportColorManager"   : "false",
+                "colorMode"             : "COLOR_MODE_ENHANCED",
+                "rgbFactorArrayIndex"   : 3
+            },
+            {
+                "deviceType"            : "tablet",
+                "supportColorManager"   : "false",
+                "colorMode"             : "default",
+                "rgbFactorArrayIndex"   : 3
+            }
+        ],
+
+        "super_lcd" : [
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "default",
+                "colorMode"             : "default",
+                "rgbFactorArrayIndex"   : 3
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "false",
+                "colorMode"             : "COLOR_MODE_STANDARD",
+                "panelName"             : "tm_ili7807s_13",
+                "rgbFactorArrayIndex"   : 3
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "false",
+                "colorMode"             : "COLOR_MODE_STANDARD",
+                "panelName"             : "tm_ili7807s_12",
+                "rgbFactorArrayIndex"   : 3
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "false",
+                "colorMode"             : "COLOR_MODE_STANDARD",
+                "panelName"             : "tm_ili7807s_10",
+                "rgbFactorArrayIndex"   : 3
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "false",
+                "colorMode"             : "COLOR_MODE_PROFESSIONAL",
+                "panelName"             : "tm_ili7807s_13",
+                "rgbFactorArrayIndex"   : 3
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "false",
+                "colorMode"             : "COLOR_MODE_PROFESSIONAL",
+                "panelName"             : "tm_ili7807s_12",
+                "rgbFactorArrayIndex"   : 3
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "false",
+                "colorMode"             : "COLOR_MODE_PROFESSIONAL",
+                "panelName"             : "tm_ili7807s_10",
+                "rgbFactorArrayIndex"   : 3
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "false",
+                "colorMode"             : "COLOR_MODE_ENHANCED",
+                "panelName"             : "tm_ili7807s_13",
+                "rgbFactorArrayIndex"   : 3
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "false",
+                "colorMode"             : "COLOR_MODE_ENHANCED",
+                "panelName"             : "tm_ili7807s_12",
+                "rgbFactorArrayIndex"   : 3
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "false",
+                "colorMode"             : "COLOR_MODE_ENHANCED",
+                "panelName"             : "tm_ili7807s_10",
+                "rgbFactorArrayIndex"   : 3
+            }
+        ],
+
+        "lcd" : [
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "default",
+                "colorMode"             : "default",
+                "rgbFactorArrayIndex"   : 3
+            }
+        ],
+
+        "e1pro" : [
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "default",
+                "colorMode"             : "default",
+                "rgbFactorArrayIndex"   : 4
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "true",
+                "colorMode"             : "VIVO_COLOR_MODE_FINGERPRINT",
+                "rgbFactorArrayIndex"   : 3
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "true",
+                "colorMode"             : "COLOR_MODE_STANDARD",
+                "rgbFactorArrayIndex"   : 0
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "true",
+                "colorMode"             : "COLOR_MODE_ENHANCED",
+                "rgbFactorArrayIndex"   : 0
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "true",
+                "colorMode"             : "COLOR_MODE_PROFESSIONAL",
+                "rgbFactorArrayIndex"   : 1
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "false",
+                "colorMode"             : "VIVO_COLOR_MODE_FINGERPRINT",
+                "rgbFactorArrayIndex"   : 3
+            },
+            {
+                "deviceType"            : "tablet",
+                "supportColorManager"   : "true",
+                "colorMode"             : "COLOR_MODE_STANDARD",
+                "rgbFactorArrayIndex"   : 0
+            },
+            {
+                "deviceType"            : "tablet",
+                "supportColorManager"   : "true",
+                "colorMode"             : "COLOR_MODE_PROFESSIONAL",
+                "rgbFactorArrayIndex"   : 1
+            },
+            {
+                "deviceType"            : "tablet",
+                "supportColorManager"   : "true",
+                "colorMode"             : "COLOR_MODE_ENHANCED",
+                "rgbFactorArrayIndex"   : 0
+            }
+        ],
+
+        "default" : [
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "default",
+                "colorMode"             : "default",
+                "rgbFactorArrayIndex"   : 0
+            }
+        ]
+    },
+
+    "RgbFactorColorTemp": {
+        "oled" : [
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "default",
+                "colorMode"             : "default",
+                "rgbFactorArrayIndex"   : 5
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "true",
+                "colorMode"             : "COLOR_MODE_STANDARD",
+                "rgbFactorArrayIndex"   : 5
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "true",
+                "colorMode"             : "COLOR_MODE_PROFESSIONAL",
+                "rgbFactorArrayIndex"   : 6
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "true",
+                "colorMode"             : "VIVO_COLOR_MODE_FINGERPRINT",
+                "rgbFactorArrayIndex"   : 7
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "true",
+                "colorMode"             : "default",
+                "rgbFactorArrayIndex" : 5
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "false",
+                "colorMode"             : "default",
+                "rgbFactorArrayIndex"   : 8
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "false",
+                "colorMode"             : "COLOR_MODE_STANDARD",
+                "rgbFactorArrayIndex"   : 8
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "false",
+                "colorMode"             : "COLOR_MODE_PROFESSIONAL",
+                "rgbFactorArrayIndex"   : 8
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "false",
+                "colorMode"             : "VIVO_COLOR_MODE_FINGERPRINT",
+                "rgbFactorArrayIndex"   : 8
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "false",
+                "colorMode"             : "COLOR_MODE_ENHANCED",
+                "rgbFactorArrayIndex"   : 8
+            },
+            {
+                "deviceType"            : "tablet",
+                "supportColorManager"   : "true",
+                "colorMode"             : "COLOR_MODE_PROFESSIONAL",
+                "rgbFactorArrayIndex"   : 6
+            },
+            {
+                "deviceType"            : "tablet",
+                "supportColorManager"   : "false",
+                "colorMode"             : "COLOR_MODE_STANDARD",
+                "rgbFactorArrayIndex"   : 8
+            },
+            {
+                "deviceType"            : "tablet",
+                "supportColorManager"   : "false",
+                "colorMode"             : "COLOR_MODE_PROFESSIONAL",
+                "rgbFactorArrayIndex"   : 8
+            },
+            {
+                "deviceType"            : "tablet",
+                "supportColorManager"   : "false",
+                "colorMode"             : "VIVO_COLOR_MODE_FINGERPRINT",
+                "rgbFactorArrayIndex"   : 8
+            },
+            {
+                "deviceType"            : "tablet",
+                "supportColorManager"   : "false",
+                "colorMode"             : "COLOR_MODE_ENHANCED",
+                "rgbFactorArrayIndex"   : 8
+            },
+            {
+                "deviceType"            : "tablet",
+                "supportColorManager"   : "false",
+                "colorMode"             : "default",
+                "rgbFactorArrayIndex"   : 8
+            }
+        ],
+
+         "super_lcd" : [
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "default",
+                "colorMode"             : "default",
+                "rgbFactorArrayIndex"   : 5
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "false",
+                "colorMode"             : "COLOR_MODE_STANDARD",
+                "panelName"             : "tm_ili7807s_13",
+                "demoRgbFactorArrayIndex" : 10,
+                "rgbFactorArrayIndex"   : 7
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "false",
+                "colorMode"             : "COLOR_MODE_STANDARD",
+                "panelName"             : "tm_ili7807s_12",
+                "demoRgbFactorArrayIndex" : 10,
+                "rgbFactorArrayIndex"   : 8
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "false",
+                "colorMode"             : "COLOR_MODE_STANDARD",
+                "panelName"             : "tm_ili7807s_10",
+                "demoRgbFactorArrayIndex" : 10,
+                "rgbFactorArrayIndex"   : 8
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "false",
+                "colorMode"             : "COLOR_MODE_PROFESSIONAL",
+                "panelName"             : "tm_ili7807s_13",
+                "rgbFactorArrayIndex"   : 8
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "false",
+                "colorMode"             : "COLOR_MODE_PROFESSIONAL",
+                "panelName"             : "tm_ili7807s_12",
+                "rgbFactorArrayIndex"   : 8
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "false",
+                "colorMode"             : "COLOR_MODE_PROFESSIONAL",
+                "panelName"             : "tm_ili7807s_10",
+                "rgbFactorArrayIndex"   : 8
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "false",
+                "colorMode"             : "COLOR_MODE_ENHANCED",
+                "panelName"             : "tm_ili7807s_13",
+                "demoRgbFactorArrayIndex" : 10,
+                "rgbFactorArrayIndex"   : 8
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "false",
+                "colorMode"             : "COLOR_MODE_ENHANCED",
+                "panelName"             : "tm_ili7807s_12",
+                "demoRgbFactorArrayIndex" : 10,
+                "rgbFactorArrayIndex"   : 8
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "false",
+                "colorMode"             : "COLOR_MODE_ENHANCED",
+                "panelName"             : "tm_ili7807s_10",
+                "demoRgbFactorArrayIndex" : 10,
+                "rgbFactorArrayIndex"   : 8
+            }
+        ],
+
+        "lcd" : [
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "default",
+                "colorMode"             : "default",
+                "rgbFactorArrayIndex"   : 8
+            }
+        ],
+
+        "e1pro" : [
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "default",
+                "colorMode"             : "default",
+                "rgbFactorArrayIndex"   : 9
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "true",
+                "colorMode"             : "VIVO_COLOR_MODE_FINGERPRINT",
+                "rgbFactorArrayIndex"   : 8
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "true",
+                "colorMode"             : "COLOR_MODE_STANDARD",
+                "rgbFactorArrayIndex"   : 5
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "true",
+                "colorMode"             : "COLOR_MODE_ENHANCED",
+                "rgbFactorArrayIndex"   : 5
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "true",
+                "colorMode"             : "COLOR_MODE_PROFESSIONAL",
+                "rgbFactorArrayIndex"   : 6
+            },
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "false",
+                "colorMode"             : "VIVO_COLOR_MODE_FINGERPRINT",
+                "rgbFactorArrayIndex"   : 8
+            },
+            {
+                "deviceType"            : "tablet",
+                "supportColorManager"   : "true",
+                "colorMode"             : "COLOR_MODE_STANDARD",
+                "rgbFactorArrayIndex"   : 5
+            },
+            {
+                "deviceType"            : "tablet",
+                "supportColorManager"   : "true",
+                "colorMode"             : "COLOR_MODE_PROFESSIONAL",
+                "rgbFactorArrayIndex"   : 6
+            },
+            {
+                "deviceType"            : "tablet",
+                "supportColorManager"   : "true",
+                "colorMode"             : "COLOR_MODE_ENHANCED",
+                "rgbFactorArrayIndex"   : 5
+            }
+        ],
+
+        "default" : [
+            {
+                "deviceType"            : "default",
+                "supportColorManager"   : "default",
+                "colorMode"             : "default",
+                "rgbFactorArrayIndex"   : 5
+            }
+        ]
+    },
+
+    "RgbRatioArray" : [
+        {
+            "index" : 0,
+            "array" : [255, 255, 255]
+        },
+        {
+            "index" : 1,
+            "array" : [255, 242, 190]
+        },
+        {
+            "index" : 2,
+            "array" : [220, 244, 185]
+        }
+    ],
+
+    "RgbRatio": [
+        {
+            "panelType"           : "default",
+            "platform"            : "default",
+            "colorMode"           : "default",
+            "rgbRatioArrayIndex"  : 0
+        },
+        {
+            "panelType"           : "super_lcd",
+            "platform"            : "mtk",
+            "colorMode"           : "COLOR_MODE_PROFESSIONAL",
+            "panelName"           : "tm_ili7807s_13",
+            "rgbRatioArrayIndex"  : 2
+        },
+        {
+            "panelType"           : "super_lcd",
+            "platform"            : "mtk",
+            "colorMode"           : "COLOR_MODE_PROFESSIONAL",
+            "panelName"           : "tm_ili7807s_12",
+            "rgbRatioArrayIndex"  : 1
+        },
+        {
+            "panelType"           : "super_lcd",
+            "platform"            : "mtk",
+            "colorMode"           : "COLOR_MODE_PROFESSIONAL",
+            "panelName"           : "tm_ili7807s_10",
+            "rgbRatioArrayIndex"  : 1
+        },
+        {
+            "panelType"           : "e1pro",
+            "platform"            : "mtk",
+            "colorMode"           : "COLOR_MODE_PROFESSIONAL",
+            "rgbRatioArrayIndex"  : 1
+        }
+    ]
+}

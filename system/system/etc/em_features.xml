@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <boolean name="light_sensor_angle">true</boolean>
+    <boolean name="smart_spearker_amplifier_cali_support">true</boolean>
+    <boolean name="infrared_near_support">true</boolean>
+    <boolean name="gyroscope_support">false</boolean>
+    <boolean name="flash_light_cali_support">true</boolean>
+    <boolean name="light_sensor_leak">true</boolean>
+    <boolean name="touch_infrared_support">false</boolean>
+    <boolean name="sub_echo_support">false</boolean>
+    <boolean name="front_camera_under_screen">true</boolean>
+    <boolean name="sim_test_support">true</boolean>
+    <boolean name="tf_btb_support">true</boolean>
+    <boolean name="speaker_resdetect_support">true</boolean>
+    <string name="camera_type">back[Master,Macro]front[Master]</string>
+</resources>

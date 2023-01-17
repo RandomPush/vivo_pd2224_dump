@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>com_vivo_health_b_s5_1x1_sc</title>
+    <g id="com_vivo_health" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="辅色" transform="translate(146.516504, 115.424621) rotate(-45.000000) translate(-146.516504, -115.424621) translate(97.016504, 76.424621)" fill="#4E4E4E">
+            <path d="M12,78 C33.5391052,78 51,60.5391052 51,39 L51,39 L51,-1.8189894e-12 L60,-1.81458068e-12 C81.5391052,-1.81326179e-12 99,17.4608948 99,39 C99,60.5391052 81.5391052,78 60,78 L12,78 L11.3550637,77.9947751 L11.3550637,77.9947751 Z M24,-1.8189894e-12 L24,39 L23.9962001,39.3049748 C23.8343928,45.7914556 18.5254567,51 12,51 C5.372583,51 3.18323146e-12,45.627417 3.18323146e-12,39 L3.18323146e-12,39 L4.54747351e-13,-1.8189894e-12 L24,-1.8189894e-12 Z" id="形状结合"></path>
+        </g>
+    </g>
+</svg>

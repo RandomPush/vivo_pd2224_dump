@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="564px" height="564px" viewBox="0 0 564 564" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>com_vivo_email_b_s5_2x2_sc</title>
+    <defs>
+        <path d="M212.551339,2.66508744 C213.811554,3.3390579 214.966666,4.1351313 216.010086,5.04671925 L129.209383,89.0759851 C117.057742,100.839647 97.8356334,100.957284 85.542583,89.428895 L85.1722017,89.0759851 L-0.0102096427,6.61191865 C1.40581565,5.02405733 3.09378413,3.7004843 5.02980792,2.66508744 C8.22123863,0.958291617 11.3873005,0.0345783289 19.912794,0.000952046608 L197.180018,1.03342083e-15 C206.074381,-6.00447261e-16 209.299692,0.926087922 212.551339,2.66508744 Z" id="path-1"></path>
+    </defs>
+    <g id="com_vivo_email" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="辅色" transform="translate(173.000000, 194.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="形状结合" fill="#4E4E4E" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

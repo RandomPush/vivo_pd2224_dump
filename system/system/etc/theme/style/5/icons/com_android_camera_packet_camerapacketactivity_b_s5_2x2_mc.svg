@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="564px" height="564px" viewBox="0 0 564 564" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>com_android_camera_packet_camerapacketactivity_b_s5_2x2_mc</title>
+    <defs>
+        <path d="M61.5332448,-2.48601674e-15 L460.466755,2.48601674e-15 C481.863205,-1.44444732e-15 489.622075,2.22781467 497.444297,6.41118489 C505.266519,10.5945551 511.405445,16.7334809 515.588815,24.5557031 C519.772185,32.3779253 522,40.136795 522,61.5332448 L522,460.466755 C522,481.863205 519.772185,489.622075 515.588815,497.444297 C511.405445,505.266519 505.266519,511.405445 497.444297,515.588815 C489.622075,519.772185 481.863205,522 460.466755,522 L61.5332448,522 C40.136795,522 32.3779253,519.772185 24.5557031,515.588815 C16.7334809,511.405445 10.5945551,505.266519 6.41118489,497.444297 C2.22781467,489.622075 9.62964878e-16,481.863205 -1.65734449e-15,460.466755 L1.65734449e-15,61.5332448 C-9.62964878e-16,40.136795 2.22781467,32.3779253 6.41118489,24.5557031 C10.5945551,16.7334809 16.7334809,10.5945551 24.5557031,6.41118489 C32.3779253,2.22781467 40.136795,1.44444732e-15 61.5332448,-2.48601674e-15 Z" id="path-1"></path>
+        <path d="M327.773231,17.3328626 L592.41326,493.684914 C601.448338,509.948055 595.588836,530.456313 579.325695,539.491391 C574.321343,542.271587 568.691012,543.730552 562.966239,543.730552 L33.6861818,543.730552 C15.0818173,543.730552 0,528.648735 0,510.04437 C0,504.319598 1.4589654,498.689266 4.23916088,493.684914 L268.87919,17.3328626 C277.914268,1.06972202 298.422526,-4.78978035 314.685667,4.24529775 C320.184601,7.30026137 324.718268,11.8339281 327.773231,17.3328626 Z" id="path-3"></path>
+        <linearGradient x1="0%" y1="60.8883395%" x2="86.5334444%" y2="60.8883395%" id="linearGradient-5">
+            <stop stop-color="#FFF0CF" offset="0%"></stop>
+            <stop stop-color="#FFDEA8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="60.8883395%" x2="86.5334444%" y2="60.8883395%" id="linearGradient-6">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="65.4320988%" y1="72.6357345%" x2="48.6359038%" y2="56.0071132%" id="linearGradient-7">
+            <stop stop-color="#E5B75C" offset="0%"></stop>
+            <stop stop-color="#FFE299" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="65.4320988%" y1="72.6357345%" x2="48.6359038%" y2="56.0071132%" id="linearGradient-8">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="37.9590134%" y1="9.50951659%" x2="65.4320988%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#FFF9F0" offset="0%"></stop>
+            <stop stop-color="#FFFCF5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="37.9590134%" y1="9.50951659%" x2="65.4320988%" y2="100%" id="linearGradient-10">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="com_android_camera_packet_camerapacketactivity" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="主色" transform="translate(21.000000, 21.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="蒙版"></g>
+            <g id="编组-48" mask="url(#mask-2)">
+                <g transform="translate(58.806517, 54.430593)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="三角形" stroke="none" fill-opacity="0" fill="#000000" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <polygon id="路径-23" stroke="none" fill="url(#linearGradient-6)" fill-rule="evenodd" opacity="0.7" mask="url(#mask-4)" points="298.326211 386.453955 620.216392 544.479134 -23.5639713 544.479134"></polygon>
+                    <polygon id="路径-22" stroke="none" fill="url(#linearGradient-8)" fill-rule="evenodd" mask="url(#mask-4)" points="-23.5639713 543.730552 298.326211 386.453955 298.326211 -35.6717751"></polygon>
+                    <polygon id="路径-21" stroke="none" fill="url(#linearGradient-10)" fill-rule="evenodd" opacity="0.82" mask="url(#mask-4)" points="298.326211 -35.6717751 298.326211 386.453955 620.216392 543.730552"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

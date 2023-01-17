@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="564px" viewBox="0 0 240 564" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>com_android_bbksoundrecorder_b_s5_1x2_mc</title>
+    <g id="com_android_bbksoundrecorder" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="主色" transform="translate(100.000000, 236.000000)" fill="#000000">
+            <path d="M10,20 C15.5228475,20 20,24.4771525 20,30 L20,62 C20,67.5228475 15.5228475,72 10,72 C4.4771525,72 6.76353751e-16,67.5228475 0,62 L0,30 C-6.76353751e-16,24.4771525 4.4771525,20 10,20 Z" id="形状结合"></path>
+            <path d="M42,0 C47.5228475,-1.01453063e-15 52,4.4771525 52,10 L52,82 C52,87.5228475 47.5228475,92 42,92 C36.4771525,92 32,87.5228475 32,82 L32,10 C32,4.4771525 36.4771525,1.01453063e-15 42,0 Z" id="矩形"></path>
+            <path d="M74,20 C79.5228475,20 84,24.4771525 84,30 L84,62 C84,67.5228475 79.5228475,72 74,72 C68.4771525,72 64,67.5228475 64,62 L64,30 C64,24.4771525 68.4771525,20 74,20 Z" id="矩形备份-38"></path>
+        </g>
+    </g>
+</svg>

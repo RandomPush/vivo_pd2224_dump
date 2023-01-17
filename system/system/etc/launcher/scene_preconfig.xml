@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8"?>
+<favorites xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:launcher="http://schemas.android.com/apk/res/com.bbk.scene.indoor"
+    launcher:shortAxisCells="4"
+    launcher:longAxisCells="7">
+
+    <!-- 第1屏 -->
+    <!-- vivo钱包 -->
+    <favorite
+        launcher:className="com.vivo.wallet.HomeActivity"
+        launcher:container="-100"
+        launcher:packageName="com.vivo.wallet"
+        launcher:screen="0"
+        launcher:cellx="0"
+        launcher:celly="0"/>
+
+    <!-- 视频 -->
+    <favorite
+        launcher:className="com.android.VideoPlayer.VideoPlayer"
+        launcher:container="-100"
+        launcher:packageName="com.android.VideoPlayer"
+        launcher:screen="0"
+        launcher:cellx="1"
+        launcher:celly="0"/>
+
+    <!-- 儿童模式 -->
+    <favorite
+        launcher:className="com.vivo.childrenmode.activity.ChildHomeActivity"
+        launcher:container="-100"
+        launcher:packageName="com.vivo.childrenmode"
+        launcher:screen="0"
+        launcher:cellx="2"
+        launcher:celly="0"/>
+
+    <!-- Jovi语音 -->
+    <favorite
+        launcher:className="com.vivo.view.activities.FullScreenInteractionActivity"
+        launcher:container="-100"
+        launcher:packageName="com.vivo.agent"
+        launcher:screen="0"
+        launcher:cellx="3"
+        launcher:celly="0"/>
+
+    <!-- Jovi语音 -->
+    <favorite
+        launcher:className="com.vivo.view.activities.VoiceRecognizeInteractionActivity"
+        launcher:container="-100"
+        launcher:packageName="com.vivo.agent"
+        launcher:screen="0"
+        launcher:cellx="3"
+        launcher:celly="0"/>
+
+    <!-- Jovi语音 -->
+    <favorite
+        launcher:className="com.vivo.agent.view.activities.JoviHomeNewActivity"
+        launcher:container="-100"
+        launcher:packageName="com.vivo.agent"
+        launcher:screen="0"
+        launcher:cellx="3"
+        launcher:celly="0"/>
+
+    <!-- 游戏中心 -->
+    <favorite
+        launcher:className="com.vivo.game.ui.LogoActivity"
+        launcher:container="-100"
+        launcher:packageName="com.vivo.game"
+        launcher:screen="0"
+        launcher:cellx="0"
+        launcher:celly="1"/>
+
+    <!-- 互传 -->
+    <favorite
+        launcher:className="com.vivo.easyshare.activity.SplashScreenActivity"
+        launcher:container="-100"
+        launcher:packageName="com.vivo.easyshare"
+        launcher:screen="0"
+        launcher:cellx="1"
+        launcher:celly="1"/>
+
+    <!-- 使用技巧 -->
+    <favorite
+        launcher:className="com.vivo.Tips.MainActivity"
+        launcher:container="-100"
+        launcher:packageName="com.vivo.Tips"
+        launcher:screen="0"
+        launcher:cellx="2"
+        launcher:celly="1"/>
+
+    <!-- 联系人 -->
+    <favorite
+        launcher:className="com.android.contacts.DialtactsContactsEntryActivity"
+        launcher:container="-100"
+        launcher:packageName="com.android.contacts"
+        launcher:screen="0"
+        launcher:cellx="3"
+        launcher:celly="1"/>
+
+    <!-- 电子邮件 -->
+    <favorite
+        launcher:className="com.vivo.email.activity.Welcome"
+        launcher:container="-100"
+        launcher:packageName="com.vivo.email"
+        launcher:screen="0"
+        launcher:cellx="0"
+        launcher:celly="2"/>
+
+    <!-- 一键锁屏 -->
+    <favorite
+        launcher:className="com.android.bbk.lockscreen3.LockScreenActivity"
+        launcher:container="-100"
+        launcher:packageName="com.android.bbk.lockscreen3"
+        launcher:screen="0"
+        launcher:cellx="1"
+        launcher:celly="2"/>
+
+    <!-- 云服务 -->
+    <favorite
+        launcher:className="com.bbk.cloud.ui.BBKCloudHomeScreen"
+        launcher:container="-100"
+        launcher:packageName="com.bbk.cloud"
+        launcher:screen="0"
+        launcher:cellx="2"
+        launcher:celly="2"/>
+
+    <!-- 电子书 -->
+    <favorite
+        launcher:className="com.chaozh.iReader.ui.activity.WelcomeActivity"
+        launcher:container="-100"
+        launcher:packageName="com.chaozh.iReader"
+        launcher:screen="0"
+        launcher:cellx="3"
+        launcher:celly="2"/>
+
+    <!-- 电子书 -->
+    <favorite
+        launcher:className="com.zhangyue.iReader.ui.activity.WelcomeActivity"
+        launcher:container="-100"
+        launcher:packageName="com.chaozh.iReader"
+        launcher:screen="0"
+        launcher:cellx="3"
+        launcher:celly="2"/>
+
+    <!-- 应用商店 -->
+    <favorite
+        launcher:className="com.bbk.appstore.ui.AppStore"
+        launcher:container="-100"
+        launcher:packageName="com.bbk.appstore"
+        launcher:screen="0"
+        launcher:cellx="0"
+        launcher:celly="3"/>
+
+    <!-- 应用商店 -->
+    <favorite
+        launcher:className="com.vivo.appstore.activity.LaunchActivity"
+        launcher:container="-100"
+        launcher:packageName="com.vivo.appstore"
+        launcher:screen="0"
+        launcher:cellx="0"
+        launcher:celly="3"/>
+
+    <!-- i 音乐 -->
+    <favorite
+        launcher:className="com.android.bbkmusic.WidgetToTrackActivity"
+        launcher:container="-100"
+        launcher:packageName="com.android.bbkmusic"
+        launcher:screen="0"
+        launcher:cellx="1"
+        launcher:celly="3"/>
+
+    <!-- 日历 -->
+    <favorite
+        launcher:className="com.bbk.calendar.MainActivity"
+        launcher:container="-100"
+        launcher:packageName="com.bbk.calendar"
+        launcher:screen="0"
+        launcher:cellx="2"
+        launcher:celly="3"/>
+
+    <!-- i主题 -->
+    <favorite
+        launcher:className="com.bbk.theme.Theme"
+        launcher:container="-100"
+        launcher:packageName="com.bbk.theme"
+        launcher:screen="0"
+        launcher:cellx="3"
+        launcher:celly="3"/>
+
+    <!-- 闹钟时钟 -->
+    <favorite
+        launcher:className="com.android.BBKClock.Timer"
+        launcher:container="-100"
+        launcher:packageName="com.android.BBKClock"
+        launcher:screen="0"
+        launcher:cellx="0"
+        launcher:celly="4"/>
+
+    <!-- 设置 -->
+    <favorite
+        launcher:className="com.android.settings.Settings"
+        launcher:container="-100"
+        launcher:packageName="com.android.settings"
+        launcher:screen="0"
+        launcher:cellx="1"
+        launcher:celly="4"/>
+
+    <!-- 文件管理 -->
+    <favorite
+        launcher:className="com.android.filemanager.FileManagerActivity"
+        launcher:container="-100"
+        launcher:packageName="com.android.filemanager"
+        launcher:screen="0"
+        launcher:cellx="2"
+        launcher:celly="4"/>
+
+    <!-- 天气 -->
+    <favorite
+        launcher:className="com.vivo.weather.WeatherMain"
+        launcher:container="-100"
+        launcher:packageName="com.vivo.weather"
+        launcher:screen="0"
+        launcher:cellx="3"
+        launcher:celly="4"/>
+
+    <!-- i管家 -->
+    <favorite
+        launcher:className="com.iqoo.secure.MainGuideActivity"
+        launcher:container="-100"
+        launcher:packageName="com.iqoo.secure"
+        launcher:screen="0"
+        launcher:cellx="0"
+        launcher:celly="5"/>
+
+    <!-- 便签 -->
+    <favorite
+        launcher:className="com.android.notes.Notes"
+        launcher:container="-100"
+        launcher:packageName="com.android.notes"
+        launcher:screen="0"
+        launcher:cellx="1"
+        launcher:celly="5"/>
+
+    <!-- vivo官网 -->
+    <favorite
+        launcher:className="com.vivo.space.ui.LogoActivity"
+        launcher:container="-100"
+        launcher:packageName="com.vivo.space"
+        launcher:screen="0"
+        launcher:cellx="2"
+        launcher:celly="5"/>
+
+    <!-- vivo官网 -->
+    <favorite
+        launcher:className="com.vivo.website.activity.SplashActivity"
+        launcher:container="-100"
+        launcher:packageName="com.vivo.website"
+        launcher:screen="0"
+        launcher:cellx="2"
+        launcher:celly="5"/>
+
+    <!-- 相册 -->
+    <favorite
+        launcher:className="com.android.gallery3d.vivo.GalleryTabActivity"
+        launcher:container="-100"
+        launcher:packageName="com.vivo.gallery"
+        launcher:screen="0"
+        launcher:cellx="3"
+        launcher:celly="5"/>
+
+   <!-- 电话 -->
+    <favorite
+        launcher:className="com.android.dialer.TwelveKeyDialer"
+        launcher:container="-100"
+        launcher:packageName="com.android.dialer"
+        launcher:screen="0"
+        launcher:cellx="0"
+        launcher:celly="6"/>
+
+    <!-- 信息 -->
+    <favorite
+        launcher:className="com.android.mms.ui.ConversationList"
+        launcher:container="-100"
+        launcher:packageName="com.android.mms"
+        launcher:screen="0"
+        launcher:cellx="1"
+        launcher:celly="6"/>
+
+    <!-- 浏览器 -->
+    <favorite
+        launcher:className="com.vivo.browser.BrowserActivity"
+        launcher:container="-100"
+        launcher:packageName="com.vivo.browser"
+        launcher:screen="0"
+        launcher:cellx="2"
+        launcher:celly="6"/>
+
+    <!-- 相机 -->
+    <favorite
+        launcher:className="com.android.camera.CameraActivity"
+        launcher:container="-100"
+        launcher:packageName="com.android.camera"
+        launcher:screen="0"
+        launcher:cellx="3"
+        launcher:celly="6"/>
+
+    <!-- 第2屏 -->
+    <!-- 计算器 -->
+    <favorite
+        launcher:className="com.android.bbkcalculator.Calculator"
+        launcher:container="-100"
+        launcher:packageName="com.android.bbkcalculator"
+        launcher:screen="1"
+        launcher:cellx="0"
+        launcher:celly="0"/>
+
+    <!-- 录音机 -->
+    <favorite
+        launcher:className="com.android.bbksoundrecorder.SoundRecorder"
+        launcher:container="-100"
+        launcher:packageName="com.android.bbksoundrecorder"
+        launcher:screen="1"
+        launcher:cellx="1"
+        launcher:celly="0"/>
+
+    <!-- 录音机 -->
+    <favorite
+        launcher:className="com.android.activity.SoundRecorder"
+        launcher:container="-100"
+        launcher:packageName="com.android.bbksoundrecorder"
+        launcher:screen="1"
+        launcher:cellx="1"
+        launcher:celly="0"/>
+
+    <!-- 指南针 -->
+    <favorite
+        launcher:className="com.vivo.compass.CalibrationActivity"
+        launcher:container="-100"
+        launcher:packageName="com.vivo.compass"
+        launcher:screen="1"
+        launcher:cellx="2"
+        launcher:celly="0"/>
+
+    <!-- 意见反馈 -->
+    <favorite
+        launcher:className="com.bbk.iqoo.feedback.activities.UserFeedBackActivity"
+        launcher:container="-100"
+        launcher:packageName="com.bbk.iqoo.feedback"
+        launcher:screen="1"
+        launcher:cellx="3"
+        launcher:celly="0"/>
+
+    <!-- 意见反馈 -->
+    <favorite
+        launcher:className="com.vivo.website.feedback.HotQuestionEntry"
+        launcher:container="-100"
+        launcher:packageName="com.vivo.website"
+        launcher:screen="1"
+        launcher:cellx="3"
+        launcher:celly="0"/>
+
+    <!-- 翻译机 -->
+    <favorite
+        launcher:className="com.vivo.translator.view.activity.MainActivity"
+        launcher:container="-100"
+        launcher:packageName="com.vivo.translator"
+        launcher:screen="1"
+        launcher:cellx="0"
+        launcher:celly="1"/>
+
+    <!-- 新浪微博 -->
+    <favorite
+        launcher:className="com.sina.weibo.SplashActivity"
+        launcher:container="-100"
+        launcher:packageName="com.sina.weibo"
+        launcher:screen="1"
+        launcher:cellx="1"
+        launcher:celly="1"/>
+
+    <!-- 高德地图 -->
+    <favorite
+        launcher:className="com.autonavi.map.activity.SplashActivity"
+        launcher:container="-100"
+        launcher:packageName="com.autonavi.minimap"
+        launcher:screen="1"
+        launcher:cellx="2"
+        launcher:celly="1"/>
+
+    <!-- 苏宁易购 -->
+    <favorite
+        launcher:className="com.suning.mobile.ebuy.host.InitialActivity"
+        launcher:container="-100"
+        launcher:packageName="com.suning.mobile.ebuy"
+        launcher:screen="1"
+        launcher:cellx="3"
+        launcher:celly="1"/>
+
+    <!-- 优酷视频 -->
+    <favorite
+        launcher:className="com.youku.phone.ActivityWelcomeCopy"
+        launcher:container="-100"
+        launcher:packageName="com.youku.phone"
+        launcher:screen="1"
+        launcher:cellx="0"
+        launcher:celly="2"/>
+
+    <!-- 优酷视频 -->
+    <favorite
+        launcher:className="com.youku.phone.ActivityWelcome"
+        launcher:container="-100"
+        launcher:packageName="com.youku.phone"
+        launcher:screen="1"
+        launcher:cellx="0"
+        launcher:celly="2"/>
+
+    <!-- 爱奇艺视频 -->
+    <favorite
+        launcher:className="com.qiyi.video.WelcomeActivity"
+        launcher:container="-100"
+        launcher:packageName="com.qiyi.video"
+        launcher:screen="1"
+        launcher:cellx="1"
+        launcher:celly="2"/>
+
+    <!-- 快手 -->
+    <favorite
+        launcher:className="com.yxcorp.gifshow.HomeActivity"
+        launcher:container="-100"
+        launcher:packageName="com.smile.gifmaker"
+        launcher:screen="1"
+        launcher:cellx="2"
+        launcher:celly="2"/>
+
+    <!-- 微视 -->
+    <favorite
+        launcher:className="com.tencent.oscar.module.splash.SplashActivity"
+        launcher:container="-100"
+        launcher:packageName="com.tencent.weishi"
+        launcher:screen="1"
+        launcher:cellx="3"
+        launcher:celly="2"/>
+
+    <!-- 喜马拉雅 -->
+    <favorite
+        launcher:className="com.ximalaya.ting.android.host.activity.WelComeActivity"
+        launcher:container="-100"
+        launcher:packageName="com.ximalaya.ting.android"
+        launcher:screen="1"
+        launcher:cellx="0"
+        launcher:celly="3"/>
+
+    <!-- 腾讯新闻 -->
+    <favorite
+        launcher:className="com.tencent.news.activity.SplashActivity"
+        launcher:container="-100"
+        launcher:packageName="com.tencent.news"
+        launcher:screen="1"
+        launcher:cellx="1"
+        launcher:celly="3"/>
+
+    <!-- 今日头条 -->
+    <favorite
+        launcher:className="com.ss.android.article.news.activity.SplashActivity"
+        launcher:container="-100"
+        launcher:packageName="com.ss.android.article.news"
+        launcher:screen="1"
+        launcher:cellx="2"
+        launcher:celly="3"/>
+
+    <!-- 今日头条 -->
+    <favorite
+        launcher:className="com.ss.android.article.news.activity.SplashBadgeActivity"
+        launcher:container="-100"
+        launcher:packageName="com.ss.android.article.news"
+        launcher:screen="1"
+        launcher:cellx="2"
+        launcher:celly="3"/>
+
+    <!-- 今日头条 -->
+    <favorite
+        launcher:className="com.ss.android.article.news.activity.LaunchActivity"
+        launcher:container="-100"
+        launcher:packageName="com.ss.android.article.news"
+        launcher:screen="1"
+        launcher:cellx="2"
+        launcher:celly="3"/>
+
+    <!-- QQ浏览器-->
+    <favorite
+        launcher:className="com.tencent.mtt.SplashActivity"
+        launcher:container="-100"
+        launcher:packageName="com.tencent.mtt"
+        launcher:screen="1"
+        launcher:cellx="3"
+        launcher:celly="3"/>
+
+    <!-- 拼多多 -->
+    <favorite
+        launcher:className="com.xunmeng.pinduoduo.ui.activity.MainFrameActivity"
+        launcher:container="-100"
+        launcher:packageName="com.xunmeng.pinduoduo"
+        launcher:screen="1"
+        launcher:cellx="0"
+        launcher:celly="4"/>
+
+    <!-- 拼多多 -->
+    <favorite
+        launcher:className="com.xunmeng.pinduoduo.ui.activity.SplashActivity"
+        launcher:container="-100"
+        launcher:packageName="com.xunmeng.pinduoduo"
+        launcher:screen="1"
+        launcher:cellx="0"
+        launcher:celly="4"/>
+
+    <!-- 手机淘宝 -->
+    <favorite
+        launcher:className="com.taobao.tao.welcome.Welcome"
+        launcher:container="-100"
+        launcher:packageName="com.taobao.taobao"
+        launcher:screen="1"
+        launcher:cellx="1"
+        launcher:celly="4"/>
+
+    <!-- 京东 -->
+    <favorite
+        launcher:className="com.jingdong.app.mall.main.MainActivity"
+        launcher:container="-100"
+        launcher:packageName="com.jingdong.app.mall"
+        launcher:screen="1"
+        launcher:cellx="2"
+        launcher:celly="4"/>
+
+    <!-- 58同城 -->
+    <favorite
+        launcher:className="com.wuba.activity.launch.LaunchActivity"
+        launcher:container="-100"
+        launcher:packageName="com.wuba"
+        launcher:screen="1"
+        launcher:cellx="3"
+        launcher:celly="4"/>
+
+    <!-- 支付宝 -->
+    <favorite
+        launcher:className="com.eg.android.AlipayGphone.AlipayLogin"
+        launcher:container="-100"
+        launcher:packageName="com.eg.android.AlipayGphone"
+        launcher:screen="1"
+        launcher:cellx="0"
+        launcher:celly="5"/>
+
+    <!-- 携程旅行 -->
+    <favorite
+        launcher:className="ctrip.business.splash.CtripSplashActivity"
+        launcher:container="-100"
+        launcher:packageName="ctrip.android.view"
+        launcher:screen="1"
+        launcher:cellx="1"
+        launcher:celly="5"/>
+
+    <!-- 手机百度 -->
+    <favorite
+        launcher:className="com.baidu.searchbox.SplashActivity"
+        launcher:container="-100"
+        launcher:packageName="com.baidu.searchbox"
+        launcher:screen="1"
+        launcher:cellx="2"
+        launcher:celly="5"/>
+
+</favorites>

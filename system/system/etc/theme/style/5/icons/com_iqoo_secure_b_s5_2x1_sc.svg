@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="564px" height="240px" viewBox="0 0 564 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>com_iqoo_secure_b_s5_2x1_sc</title>
+    <g id="com_iqoo_secure" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="辅色" transform="translate(222.000000, 71.747122)" fill="#4E4E4E" fill-rule="nonzero">
+            <path d="M60,0 L60,37.7080435 C60,62.8984271 46.3855219,86.1387659 24.3668478,98.5349456 L0,112.252878 L0,97.3338775 L17.9892799,87.2068113 L18.5198271,86.9043991 C35.9611249,76.8397064 46.7799202,58.3739211 46.9966805,38.3222942 L46.9966805,38.3222942 L47,37.7080435 L47,7.88487754 L0,36.2901471 L60,0 Z" id="形状结合" opacity="0.800000012" transform="translate(30.000000, 56.126439) scale(-1, 1) translate(-30.000000, -56.126439) "></path>
+            <path d="M60,7.88487754 L60,37.7080435 L59.9966805,38.3222942 C59.7799202,58.3739211 48.9611249,76.8397064 31.5198271,86.9043991 L30.9892799,87.2068113 L13,97.3338775 L13,36.2901471 L60,7.88487754 Z" id="路径" transform="translate(36.500000, 52.609378) scale(-1, 1) translate(-36.500000, -52.609378) "></path>
+        </g>
+    </g>
+</svg>
