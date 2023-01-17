@@ -1,0 +1,5 @@
+{
+"featureConfig":{
+       "SupportFrontRemosaicDownscale":[1,"是否支持remosaic sensor在前置拍照模式downscale"]
+    }
+}
